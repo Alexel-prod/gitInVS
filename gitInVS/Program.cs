@@ -11,6 +11,8 @@ namespace gitInVS
         static void Main(string[] args)
         {
             Console.WriteLine("Hello world1");
+            Console.WriteLine("Hello world3");
+
         }
     }
 }
