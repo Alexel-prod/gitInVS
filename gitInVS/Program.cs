@@ -12,6 +12,10 @@ namespace gitInVS
         {
             Console.WriteLine("Hello world1");
             Console.WriteLine("Hello world3");
+            Console.WriteLine("Hello world4");
+            Console.WriteLine("Hello world5");
+
+            Console.WriteLine();
 
         }
     }
